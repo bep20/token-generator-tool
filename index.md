@@ -8,28 +8,18 @@ Below we demonstrate the creation of BEP20 Token in Chrome browser
 <br>
 <br>
 
-<h4 id="Open-a-website-https://createmytoken.net/"> Open a website <a href="https://createmytoken.net/" target="_blank">https://createmytoken.net/</a></h4>
-<br>
-<br>
-
-1-Click CREATE TOKEN
+<h4 id="Open-a-website-https://bep20.site/"> Open a website <a href="https://createmytoken.net/" target="_blank">https://bep20.site/</a></h4>
 <br>
 <br>
 
 
-![b1](https://i.imgur.com/Uq8tqwV.png)
-
-
-
-
-
-2- Click  Binance Smart Chain (BEP20)
+1- Click  Binance Smart Chain (BEP20)
 <br>
 <br>
 
 
 
-![b1](https://i.imgur.com/0MvEaAn.png)
+![b1](https://i.imgur.com/QPaklLk.png)
 
 
 
@@ -37,14 +27,14 @@ Below we demonstrate the creation of BEP20 Token in Chrome browser
 
 
 
-3- Fill in the token information to be created , choose your functions burnable,mintable, tax fee to holders, tax fee to your wallet
+2- Fill in the token information and choose your toen type standard , burnable , mintable ,Amazing, etc
 <br>
 <br>
 
 
 
 
-![b3](https://i.imgur.com/4fogCnd.png)
+![b3](https://bep20.github.io/token-generator/images/docs/create/bep20/token-details.png)
 
 
 
@@ -52,16 +42,14 @@ Below we demonstrate the creation of BEP20 Token in Chrome browser
 
 
 
-4- Open Metamask and connect
+3- confirm in  Metamask
 <br>
 <br>
 
 
 
 
-![b4](https://i.imgur.com/wU8ma5Y.png)
-
-![b4](https://i.imgur.com/VBRlEj4.png)
+![b4](https://i.imgur.com/3pMcpBW.png)
 
 
 
@@ -69,24 +57,25 @@ Below we demonstrate the creation of BEP20 Token in Chrome browser
 
 
 
-5- Pay the service fee and gas fee
+
+4- wait token contract address
 <br>
 <br>
 
 
 
 
-![b4](https://i.imgur.com/vN0uMDV.png)
+![b4](https://bep20.github.io/token-generator/images/docs/create/bep20/token-waiting.png)
 
 
 
-6- You will see information about the created token.
+5- You will see information about the created token.
 <br>
 <br>
 
 
 
-![b9](https://i.imgur.com/OnWBB3U.png)
+![b9](https://bep20.github.io/token-generator/images/docs/create/bep20/token-confirmed.png)
 
 
 
@@ -95,12 +84,13 @@ The good news is you can now manage and use your token as you wish.
 <br>
 <br>
 
+![b9](https://bep20.github.io/token-generator/images/docs/create/bep20/token-source-code.png)
 
 
 
 <br>
 <br>
-Try it now <h4 <a href="https://createmytoken.net/" target="_blank">https://createmytoken.net/</a></h4>
+Try it now <h4 <a href="https://bep20.site/" target="_blank">https://bep20.site/</a></h4>
 
 
 You can create tokens in the same way in the networks written below on the site.
@@ -114,4 +104,4 @@ Ethereum Network, Avalance C Chain , Polygon Network, Heco Chain Network, Fantom
 <br>
 <br>
 
-Having trouble with Pages?  [contact support](https://createmytoken.net/contact) and we’ll help you sort it out.
+Having trouble with Pages?  [contact support](https://bep20.site) and we’ll help you sort it out.
