@@ -27,7 +27,7 @@ Below we demonstrate the creation of BEP20 Token in Chrome browser
 
 
 
-2- Fill in the token information and choose your toen type standard , burnable , mintable ,Amazing, etc
+2- Fill in the token information and choose your toنen type  standard , burnable , mintable ,Amazing, etc
 <br>
 <br>
 
